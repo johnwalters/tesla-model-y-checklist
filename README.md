@@ -43,6 +43,7 @@ location and any personal details or requests are lost in the handoff.
 - [ ] Panel gaps on the roof (glass to rubber gaps)
 ### Details
 - [ ] Check the head light fit
+- [ ] Check all lights for condensation
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
 - [ ] Make sure the hood sits flush with the quarter panels and frunk
