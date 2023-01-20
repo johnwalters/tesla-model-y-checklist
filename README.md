@@ -27,10 +27,21 @@ location and any personal details or requests are lost in the handoff.
 
 ### Locked
 
+- [ ] Print out insurance card to stick in car
 - [ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
 - [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
 - [ ] A sleeve with *two* keys is provided
+- [ ] Tow kit is there
+
+### Preliminary
+- [ ] Check for overall paint defects
+- [ ] Check underneath vehicle for deep scratches and wear.
+- [ ] Check all panel gaps
+- [ ] Look at all for rims not scratched and have air caps
+- [ ] Look at all the glass for distortion and cracks
+- [ ] Panel gaps on the roof (glass to rubber gaps)
+### Details
 - [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
@@ -60,6 +71,14 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
 > * __Fix:__ mobile service can fix it in minutes
+
+### Interior Visual Inspection
+- [ ] Inspect the screen for scratches
+- [ ] Inspect the center console scratches, dings, etc.
+- [ ] Inspect the dash for scratches
+- [ ] Check seats for scuffs/damage/bad seams 
+- [ ] Confirm the middle seat on back row is flush at both ends
+- [ ] Inspect the floor mats for rips, stains, etc.
 
 ### Unlocked
 
